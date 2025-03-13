@@ -1,0 +1,9 @@
+file_format: "1"
+id: niceunisplit
+name: niceunisplit
+type: shield
+url: https://github.com/vuanhtung/zmk-config-niceunisplit
+requires: [pro_micro]
+features:
+  - keys
+  - studio
